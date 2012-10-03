@@ -1,4 +1,4 @@
 (defproject snapshots "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :dependencies [[clojure "1.3.0"]
-                 [overtone/osc-clj "0.7.1"]])
+  :description "An OSC storage and retrieval system"
+  :dependencies [[org.clojure/clojure "1.4.0"]
+                 [overtone "0.8.0-SNAPSHOT"]])
